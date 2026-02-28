@@ -4,9 +4,16 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=datasub-token&show_icons=false&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&cache_seconds=86400" height="150"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-111111?style=flat-square&labelColor=000000&color=111111" />
+<img src="https://img.shields.io/badge/Telegram-Mini%20Apps-111111?style=flat-square&labelColor=000000&color=111111" />
+<img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-111111?style=flat-square&labelColor=000000&color=111111" />
+<img src="https://img.shields.io/badge/Stack-Figma%20%7C%20Jitter%20%7C%20Codex-111111?style=flat-square&labelColor=000000&color=111111" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datasub-token&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=86400" height="150"/>
+<br><br>
+
+<img src="https://img.shields.io/github/followers/datasub-token?label=followers&style=flat-square&labelColor=000000&color=111111" />
+<img src="https://img.shields.io/github/last-commit/datasub-token/datasub-token?label=last%20commit&style=flat-square&labelColor=000000&color=111111" />
+<img src="https://komarev.com/ghpvc/?username=datasub-token&style=flat-square&color=111111&label=views" />
 
 </div>
 
