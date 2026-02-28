@@ -21,8 +21,6 @@ I design. I build. I launch.
 
 ## Expertise
 
-<p align="left">
-
 UI/UX Design  
 Product Strategy  
 Design Systems  
@@ -30,18 +28,14 @@ Telegram Mini Apps
 Startup Launch  
 Product Leadership  
 
-</p>
-
 ---
 
 ## Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jitter-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
+Figma  
+Jitter  
+Codex  
+Telegram Mini Apps  
 
 ---
 
@@ -58,6 +52,6 @@ it is product architecture.
 
 <div align="center">
 
-_Designing digital experiences with clarity._
+Designing digital experiences with clarity.
 
 </div>
