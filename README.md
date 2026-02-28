@@ -1,50 +1,63 @@
-# David Taibov
+<div align="center">
 
-### UI/UX Designer • Founder • CEO  
-Building Telegram Mini Apps & digital products
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=David+Taibov;UI%2FUX+Designer;Founder+of+Telegram+Mini+Apps;CEO+%7C+Product+Builder" />
+
+<br>
+<br>
+
+</div>
 
 ---
 
-## About Me
+## About
 
-UI/UX Designer focused on product thinking and scalable interfaces.  
+UI/UX Designer focused on product clarity and scalable systems.  
 Founder of Telegram Mini Apps projects.  
-CEO of multiple digital initiatives.  
+CEO building digital products with structure and intention.
 
-I design, build and launch products.
-
----
-
-## Tech & Tools
-
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Jitter](https://img.shields.io/badge/Jitter-000?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-000?style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram%20Mini%20Apps-000?style=for-the-badge&logo=telegram)
+I design. I build. I launch.
 
 ---
 
-## What I Do
+## Expertise
 
-- Product UI/UX Design
-- Telegram Mini Apps Development
-- Startup Launch & Strategy
-- CEO & Product Leadership
+<p align="left">
+
+UI/UX Design  
+Product Strategy  
+Design Systems  
+Telegram Mini Apps  
+Startup Launch  
+Product Leadership  
+
+</p>
+
+---
+
+## Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jitter-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
 
 ---
 
 ## Philosophy
 
-Design is not decoration.  
-It is product thinking, clarity and growth.
+Minimal.  
+Structured.  
+Intentional.
+
+Design is not decoration —  
+it is product architecture.
 
 ---
 
-## Connect
+<div align="center">
 
-- Telegram: [@yourusername](https://t.me/yourusername)
-- Email: rubinhaip@gmail.com
+_Designing digital experiences with clarity._
 
----
-
-> Building products users actually want.
+</div>
