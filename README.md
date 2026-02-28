@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=David+Taibov;UI%2FUX+Designer;Founder+of+Telegram+Mini+Apps;CEO+%7C+Product+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=David+T.;UI%2FUX+Designer;Founder+of+Telegram+Mini+Apps;CEO+%7C+Product+Builder" />
 
 <br><br>
 
